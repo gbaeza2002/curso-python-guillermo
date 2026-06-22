@@ -1,0 +1,2 @@
+#CLASE 1: MOSTRAR  TEXTO EN PANTALLA 
+print("Hola mundo")
